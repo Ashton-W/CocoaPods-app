@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/CocoaPods/CocoaPods-app/master/app/CocoaPods/Supporting%20Files/Media.xcassets/AppIcon.appiconset/icon_128x128.png" alt="CocoaPods.app Icon" />
   <h1 align="center" style="">CocoaPods.app</h1>
 </p>
----
 
 The _foremost_ goal of CocoaPods.app is to provide a full-featured and standalone installation of
 CocoaPods, instead of requiring users to install CocoaPods through RubyGems or Homebrew. In addition
